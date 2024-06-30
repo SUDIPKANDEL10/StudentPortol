@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|c:\\users\\sudip\\source\\repos\\studentportol\\studentportol.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|solutionrelative:studentportol.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|c:\\users\\sudip\\source\\repos\\studentportol\\studentportol.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|solutionrelative:studentportol.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|c:\\users\\sudip\\source\\repos\\studentportol\\studentportol.web\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|solutionrelative:studentportol.web\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|c:\\users\\sudip\\source\\repos\\studentportol\\studentportol.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|solutionrelative:studentportol.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|c:\\users\\sudip\\source\\repos\\studentportol\\studentportol.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|solutionrelative:studentportol.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|c:\\users\\sudip\\source\\repos\\studentportol\\studentportol.web\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|solutionrelative:studentportol.web\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|c:\\users\\sudip\\source\\repos\\studentportol\\studentportol.web\\studentportol.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4B212CB-056D-403E-92B6-C126E7F026F5}|StudentPortol.Web\\StudentPortol.Web.csproj|solutionrelative:studentportol.web\\studentportol.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentPortol.Web\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentPortol.Web\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T12:23:46.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPortol.Web\\Views\\Student\\List.cshtml",
+              "ToolTip": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "StudentPortol.Web\\Views\\Student\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T12:36:47.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentPortol.Web\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentPortol.Web\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:57:55.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentPortol.Web\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "StudentPortol.Web\\Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T06:59:37.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortol.Web\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentPortol.Web\\Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:36:55.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortol.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\appsettings.json",
+              "RelativeToolTip": "StudentPortol.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T06:44:28.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentPortol.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\StudentPortol.Web.csproj",
+              "RelativeDocumentMoniker": "StudentPortol.Web\\StudentPortol.Web.csproj",
+              "ToolTip": "C:\\Users\\sudip\\source\\repos\\StudentPortol\\StudentPortol.Web\\StudentPortol.Web.csproj",
+              "RelativeToolTip": "StudentPortol.Web\\StudentPortol.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T06:27:08.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
