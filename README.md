@@ -2,3 +2,4 @@ In this project, creation of ASP.NET MVC CRUD app using Entity Framework core an
 visual studio 2022.
 Bootstrap 5 is also used to style pages.
 For the project installing EF Core packages and use the code-first approach to create our SQL Server database.
+At the end we can create, update, Read and Delete the student information.
